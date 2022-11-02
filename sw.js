@@ -1,8 +1,4 @@
 self.addEventListener("install", e => {
-    console.log("Installing sw");
-});
-
-self.addEventListener("install", e => {
     console.log("Caching resources..");
     e.waitUntil(
         caches.open("static").then(cache => {
