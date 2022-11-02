@@ -1,7 +1,7 @@
 {
     "name": "Calculator",
     "short_name": "Calculator",
-    "start_url": "https://nsamijo.github.io/Calculator",
+    "start_url": "https://nsamijo.github.io/Workshop_WebApp/",
     "background_color": "#6dcdb1",
     "theme_color": "#009578",
     "display": "standalone",
